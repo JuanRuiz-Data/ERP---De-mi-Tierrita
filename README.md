@@ -1,51 +1,60 @@
 # ERP - De mi Tierrita  
 
-This repository contains the development of a **custom ERP (Enterprise Resource Planning)** system for the e-commerce brand **“De mi Tierrita”**, dedicated to selling gourmet sauces, healthy products, and bulk foods. This e-commerce project was created as a case study in the workshop **"Building an e-commerce from scratch"**, which you can also explore in the following repository: [link to project]  
+This repository showcases the development of a **custom ERP (Enterprise Resource Planning)** system for the e-commerce brand **“De mi Tierrita”**, a case study built during the workshop **"Building an e-commerce from scratch"**.  
 
-The system is designed to meet the internal management needs of the business, with a modular, scalable approach, and built on principles of accessibility and inclusion.  
-
-In addition, this repository is an **educational experiment** that combines:  
-- Concepts from **Discrete Mathematics** (based on *Johnsonbaugh, 6th edition*).  
-- Concepts from **Calculus** (based on *“Calculus” by James Stewart*).  
-- Concepts and implementation of **Project Management** (based on the *Google Project Management: Professional Certificate*).  
-- Implementation using **Python** + **Django** + **MySQL**.  
-- Concepts of **Data Engineering**.  
+While inspired by a real business, this project is also an **educational experiment** designed to combine:  
+- **Software engineering**: Python, Django, MySQL, Docker, Kubernetes.  
+- **Mathematical foundations**: Discrete Mathematics (Johnsonbaugh) and Calculus (Stewart).  
+- **Project management best practices**: based on the *Google Project Management Professional Certificate*.  
+- **Data engineering concepts**: data modeling, event-driven design, and process automation.  
 
 ---
 
-## Project Objective  
+## Project Goals  
 
-Build a centralized management system that allows:  
-
-- **Organizing users, roles, and permissions** in a clear and secure way.  
-- **Controlling departments and points of sale**, distinguishing between owned and third-party.  
-- **Optimizing operations** within each department through independent modules interconnected by events.  
-- **Scaling easily** as the business grows and processes expand.  
-- **Applying mathematical logic and inference** for decision-making (e.g., access control, data analysis).  
-- Demonstrating how **propositional and predicate logic** can be used to **manage roles, permissions, and decisions** within an information system.  
-- Demonstrating how **calculus** can be applied to data analysis and decision-making.  
+- Build a **modular and scalable ERP** tailored for e-commerce operations.  
+- Demonstrate how **logic and inference rules** can power role and permission management.  
+- Explore how **calculus and data analysis** can support smarter decision-making.  
+- Provide a **real-world application** that bridges theory (math & PM) with practice (software engineering).  
+- Showcase an **end-to-end product mindset**: from architecture and infrastructure to usability and business value.  
 
 ---
 
-## Main Modules  
+## Core Modules  
 
-- **Global Information:** Centralizes the organization’s core configuration: users, roles, permissions, departments, and points of sale.  
-- **Supply Chain:** Manages raw materials, production, inventory, and distribution up to the final customer.  
-- **Human Resources:** Handles recruitment, payroll, hiring processes, and employee performance.  
-- **Procurement:** Controls purchase orders, receipt of supplies, and supplier invoicing.  
-- **Sales:** Manages quotes, sales orders, invoicing, and performance of sales channels.  
-- **Finance & Accounting:** Oversees income, expenses, accounts, taxes, and financial reports.  
-- **Shipping & Deliveries:** Optimizes distribution logistics: picking, packing, shipping, tracking, and returns.  
+- **Global Information**: central config for users, roles, permissions, departments, and points of sale.  
+- **Supply Chain**: raw materials, production, inventory, and distribution.  
+- **Human Resources**: recruitment, payroll, and performance management.  
+- **Procurement**: purchase orders, supplier management, invoicing.  
+- **Sales**: quotes, sales orders, and channel performance.  
+- **Finance & Accounting**: income, expenses, taxes, and reporting.  
+- **Shipping & Deliveries**: logistics optimization, tracking, and returns.  
 
 ---
 
-## 🧩 Technologies  
+## Tech Stack  
 
 - **Backend**: Python + Django
 - **Frontend**: React
 - **Database**: MySQL  
+- **Architecture**: Modular, event-driven design  
 - **Infrastructure**: Docker, Kubernetes  
-- **Documentation & Management**: Notion, Excel  
+- **Documentation & PM**: Notion, Excel
+- **Design**: Figma
+- **Problem solving analysis**: Draw.io
+
+---
+
+## Why this project matters  
+
+This ERP is not just a management system — it’s a **sandbox for applied learning**.  
+It demonstrates how a product can evolve from:  
+1. **Concept** → defining business needs.  
+2. **Architecture** → modular, scalable design.  
+3. **Implementation** → coding with modern technologies.  
+4. **Analysis** → applying math and logic to real-world decisions.  
+
+It reflects a **full-stack problem-solving mindset**, valuable for tech companies and startups looking for product-oriented engineers or project managers who can bridge **business needs** and **technical execution**. 
 
 
 ```text
@@ -54,3 +63,4 @@ Build a centralized management system that allows:
  __  / / / / / __ `/ __ \   / /_/ / / / / /_  /
 / /_/ / /_/ / /_/ / / / /  / _, _/ /_/ / / / /_
 \____/\__,_/\__,_/_/ /_/  /_/ |_|\__,_/_/ /___/
+
