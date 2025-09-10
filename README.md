@@ -48,6 +48,7 @@ Build a centralized management system that allows:
 - **Documentation & Management**: Notion, Excel  
 
 
+```text
        __                     ____        _    
       / /_  ______ _____     / __ \__  __(_)___
  __  / / / / / __ `/ __ \   / /_/ / / / / /_  /
