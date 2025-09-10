@@ -29,28 +29,27 @@ Build a centralized management system that allows:
 
 ## Main Modules  
 
-### Global Information: Centralizes the organization’s core configuration: users, roles, permissions, departments, and points of sale.  
-### Supply Chain: Manages raw materials, production, inventory, and distribution up to the final customer.  
-### Human Resources: Handles recruitment, payroll, hiring processes, and employee performance.  
-### Procurement: Controls purchase orders, receipt of supplies, and supplier invoicing.  
-### Sales: Manages quotes, sales orders, invoicing, and performance of sales channels.  
-### Finance & Accounting: Oversees income, expenses, accounts, taxes, and financial reports.  
-### Shipping & Deliveries: Optimizes distribution logistics: picking, packing, shipping, tracking, and returns.  
-
----
-
-## 🔑 Example of Logical Inference  
-
-In the permissions module, rules are applied such as:  
-
-- If a **user** belongs to the **Sales Department** and has the **Manager** role, then they gain access to the **Points of Sale** and **Clients** modules.  
-- If a user has the **Administrator** role, their permissions include **all modules**, regardless of department.  
+- **Global Information:** Centralizes the organization’s core configuration: users, roles, permissions, departments, and points of sale.  
+- **Supply Chain:** Manages raw materials, production, inventory, and distribution up to the final customer.  
+- **Human Resources:** Handles recruitment, payroll, hiring processes, and employee performance.  
+- **Procurement:** Controls purchase orders, receipt of supplies, and supplier invoicing.  
+- **Sales:** Manages quotes, sales orders, invoicing, and performance of sales channels.  
+- **Finance & Accounting:** Oversees income, expenses, accounts, taxes, and financial reports.  
+- **Shipping & Deliveries:** Optimizes distribution logistics: picking, packing, shipping, tracking, and returns.  
 
 ---
 
 ## 🧩 Technologies  
 
-- **Backend**: Python + Django  
+- **Backend**: Python + Django
+- **Frontend**: React
 - **Database**: MySQL  
 - **Infrastructure**: Docker, Kubernetes  
 - **Documentation & Management**: Notion, Excel  
+
+
+       __                     ____        _    
+      / /_  ______ _____     / __ \__  __(_)___
+ __  / / / / / __ `/ __ \   / /_/ / / / / /_  /
+/ /_/ / /_/ / /_/ / / / /  / _, _/ /_/ / / / /_
+\____/\__,_/\__,_/_/ /_/  /_/ |_|\__,_/_/ /___/
