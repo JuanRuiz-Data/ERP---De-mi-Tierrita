@@ -1,6 +1,6 @@
 # ERP - De mi Tierrita  
 
-This repository showcases the development of a **custom ERP (Enterprise Resource Planning)** system for the e-commerce brand **“De mi Tierrita”**, a case study built during the workshop **"Building an e-commerce from scratch"**.  
+This repository showcases the development of a **custom ERP (Enterprise Resource Planning)** system for the e-commerce brand **“De mi Tierrita”**, a case study built during the workshop **"Building an e-commerce from scratch"**, a hands-on program **created and taught by me**, where I guide participants through the entire process of designing, developing, and launching a real e-commerce product from zero.
 
 While inspired by a real business, this project is also an **educational experiment** designed to combine:  
 - **Software engineering**: Python, Django, MySQL, Docker, Kubernetes.  
