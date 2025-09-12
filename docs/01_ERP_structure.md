@@ -13,7 +13,7 @@ The main goal is to **streamline process management**, save time, and provide **
 
 ---
 
-## Global Information
+## Module: Global Information
 Core modules for the overall administration of the ERP:  
 - **Users**  
 - **Roles**  
@@ -23,7 +23,7 @@ Core modules for the overall administration of the ERP:
 
 ---
 
-## Supply Chain
+## Module: Supply Chain
 Management of materials and product flow:  
 - **Planning**  
 - **Suppliers**  
@@ -35,7 +35,7 @@ Management of materials and product flow:
 
 ---
 
-## Human Resources
+## Module: Human Resources
 Managing people and talent:  
 - **Payroll**  
 - **Contracts**  
@@ -44,7 +44,7 @@ Managing people and talent:
 
 ---
 
-## Purchasing
+## Module: Purchasing
 Control of acquisitions and supply:  
 - **Purchase Orders**  
 - **Goods Reception**  
@@ -53,7 +53,7 @@ Control of acquisitions and supply:
 
 ---
 
-## Sales
+## Module: Sales
 Managing the sales cycle:  
 - **Quotations**  
 - **Sales Orders**  
@@ -64,7 +64,7 @@ Managing the sales cycle:
 
 ---
 
-## Finance and Accounting
+## Module: Finance and Accounting
 Financial and accounting module:  
 - **General Ledger**  
 - **Accounts Payable**  
@@ -75,7 +75,7 @@ Financial and accounting module:
 
 ---
 
-## Shipping and Deliveries
+## Module: Shipping and Deliveries
 Logistics and distribution management:  
 - **Picking & Packing**  
 - **Shipments**  
