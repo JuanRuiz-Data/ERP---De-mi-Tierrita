@@ -57,11 +57,6 @@ It demonstrates how a product can evolve from:
 
 It reflects a **full-stack problem-solving mindset**, valuable for tech companies and startups looking for product-oriented engineers or project managers who can bridge **business needs** and **technical execution**. 
 
-( ͡⚆ ͜ʖ ͡⚆)  JuanRuiz  
-Coding | Data | Design  
-🌐 portfolio.juanruiz.dev
-
-
 
 ```text
        __                     ____        _    
