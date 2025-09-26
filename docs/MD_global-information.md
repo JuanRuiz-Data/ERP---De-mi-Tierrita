@@ -32,7 +32,7 @@ This module acts as the **foundation layer**, ensuring that every transaction, d
 
 ---
 
-### ( ̿▀̿Ĺ̯▀̿) Math integration (▀̿Ĺ̯▀̿ ̿)
+### Math integration (▀̿Ĺ̯▀̿ ̿)
 The Global Information module connects directly to **mathematical logic principles**:  
 
 - **Propositional Logic:**  
