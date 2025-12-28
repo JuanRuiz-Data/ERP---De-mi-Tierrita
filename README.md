@@ -10,11 +10,11 @@ While inspired by a real business, this project is also an **educational experim
 - **Data engineering concepts**: data modeling, event-driven design, and process automation.
 
 **Profiles envolved:**
-(•_•) Software Engineering
-(•‿•) UX / UI
-(¬_¬) Data Engineering
-(•̀_•́) Project Management
-(⊙_⊙) Mathematics
+- **(•_•) Software Engineering:** Focuses on designing and building the core ERP system using scalable and maintainable architectures. This profile covers backend development, service integration, infrastructure automation, and best practices.
+- **(•‿•) UX / UI:** Ensures that complex ERP workflows remain intuitive and usable. This role translates business processes into clear user interfaces, designs user journeys, and improves the overall experience for both administrators and end users.
+- **(¬_¬) Data Engineering:** Responsible for structuring, processing, and moving data across the system. This profile works on data modeling, event-driven flows, automation pipelines, and ensuring data consistency and reliability throughout the ERP.
+- **(•̀_•́) Project Management:** Leads planning, coordination, and execution across technical and educational goals. This role applies industry best practices to manage scope, timelines, risks, and collaboration, ensuring the project evolves in a structured and sustainable way.
+- **(⊙_⊙) Mathematics:** Provides the theoretical foundation behind system logic and decision-making. This profile applies concepts from discrete mathematics and calculus to model processes, optimize flows, and strengthen analytical thinking across the project.
 
 ---
 
