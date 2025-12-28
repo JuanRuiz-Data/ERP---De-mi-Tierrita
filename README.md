@@ -7,7 +7,14 @@ While inspired by a real business, this project is also an **educational experim
 - **Software engineering**: Python, Django, MySQL, Docker, Kubernetes.  
 - **Mathematical foundations**: Discrete Mathematics (Johnsonbaugh) and Calculus (Stewart).  
 - **Project management best practices**: based on the *Google Project Management Professional Certificate*.  
-- **Data engineering concepts**: data modeling, event-driven design, and process automation.  
+- **Data engineering concepts**: data modeling, event-driven design, and process automation.
+
+**Profiles envolved:**
+(•_•) Software Engineering
+(•‿•) UX / UI
+(¬_¬) Data Engineering
+(•̀_•́) Project Management
+(⊙_⊙) Mathematics
 
 ---
 
