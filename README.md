@@ -14,7 +14,7 @@ While inspired by a real business, this project is also an **educational experim
 ## Project Goals  
 
 - Build a **modular and scalable ERP** tailored for e-commerce operations.  
-- Demonstrate how **logic and inference rules** can power role and permission management.  
+- Demonstrate how **logic and boolean algebra** can power the permission management based on the role (RBAC) and/or attributes (ABAC).
 - Explore how **calculus and data analysis** can support smarter decision-making.  
 - Provide a **real-world application** that bridges theory (math & PM) with practice (software engineering).  
 - Showcase an **end-to-end product mindset**: from architecture and infrastructure to usability and business value.  
@@ -23,6 +23,7 @@ While inspired by a real business, this project is also an **educational experim
 
 ## Core Modules  
 
+- **Attribute base access control (ABAC)**: permission management.
 - **Global Information**: central config for users, roles, permissions, departments, and points of sale.  
 - **Supply Chain**: raw materials, production, inventory, and distribution.  
 - **Human Resources**: recruitment, payroll, and performance management.  
